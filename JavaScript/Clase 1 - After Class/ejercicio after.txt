@@ -1,0 +1,14 @@
+
+
+Generar a traves de prompts un estilo de formulario
+Solicitar:
+nombre
+apellido
+año de nacimiento para luego calcular la edad
+
+controlar que el usuario haya ingresado correctamente los inputs.
+
+calcular la edad del usuario
+
+mostrar un resumen de los datos ingresados y permitir al usuario confirmar dicha informacion
+
